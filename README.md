@@ -1,7 +1,7 @@
 # synctests
 synctests
 
-Build 25
+Build 26
 
 Adding these three lines to the git config file after the fetch = +refs/:refs/ line fixed it for me:
 
