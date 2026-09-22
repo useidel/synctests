@@ -1,0 +1,20 @@
+# synctests
+
+> A small synchronization test repository.
+
+The repository is a lightweight test project with a minimal README and synchronization-related test content.
+
+## Repository overview
+
+- [Source repository](https://github.com/useidel/synctests): Canonical GitHub repository, including source files, issues, history, and repository metadata.
+- [README](https://raw.githubusercontent.com/useidel/synctests/HEAD/README.md): Primary project documentation and usage notes.
+
+## Topics
+
+- Testing
+- Synchronization
+
+## Optional
+
+- [Repository activity](https://github.com/useidel/synctests/commits): Commit history for implementation changes and maintenance context.
+- [Issues](https://github.com/useidel/synctests/issues): Questions, bug reports, and project discussions when enabled.
